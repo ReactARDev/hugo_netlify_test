@@ -1,4 +1,4 @@
-baseURL = "https://getnergroup.com"
+baseURL = "https://flamboyant-villani-102ba8.netlify.com"
 languageCode = "en-us"
 title = "Welcome to Getner Group"
 theme = "vanilla-bootstrap-hugo-theme-master"
